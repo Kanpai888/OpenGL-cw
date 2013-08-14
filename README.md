@@ -1,4 +1,4 @@
-OpenGL-cw
-=========
+OpenGL Coursework - Mars in Fiction
+-----------------------------------
 
-OpenGl coursework. Theme is Mars in fiction.
+This is a copy of my 3rd year graphics project. It will require glew and glut dlls to compile so ensure that you have them setup accordingly.
