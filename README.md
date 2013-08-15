@@ -15,4 +15,4 @@ It will require glew and glut dlls to compile so ensure that you have them setup
 
 ### Video
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/9G2zndOKXx0" frameborder="0" allowfullscreen></iframe>
+<embed width="420" height="315" src="//www.youtube.com/embed/9G2zndOKXx0" frameborder="0"></embed>
